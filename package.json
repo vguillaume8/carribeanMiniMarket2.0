@@ -3,11 +3,8 @@
 	"version": "0.0.0",
 	"description": "Vince's Website",
 	"main": "server.js",
-	"author": "Jabari",
-
+	"author": "Vinston Guillaume",
 	"dependencies": {
 		"express": "~4.7.4"
-
-
 	}
 }
