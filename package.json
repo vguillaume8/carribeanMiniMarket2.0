@@ -1,0 +1,13 @@
+{
+	"Vinston": "MyWebsite",
+	"version": "0.0.0",
+	"description": "Vince's Website",
+	"main": "server.js",
+	"author": "Jabari",
+
+	"dependencies": {
+		"express": "~4.7.2"
+
+
+	}
+}
