@@ -6,8 +6,9 @@ ADD /  /app
 
 WORKDIR  app
 
-RUN npm install
+RUN yarn global add npm
 
+RUN npm --version
 
 CMD node app.js
 
